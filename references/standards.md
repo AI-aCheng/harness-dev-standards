@@ -344,4 +344,4 @@ MIT
 
 ---
 
-*本规范基于 Harness Engineering 理念 + 腾讯全AI研发实践制定*
+*本规范基于 Harness Engineering 理念 + 企业级全AI研发实践制定*
